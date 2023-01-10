@@ -176,6 +176,9 @@ body {
   background-color: #005a9c;
 }
 
+.thank_you {
+  margin: 150px 0px;
+}
 .coverBank {
 
   border: 2px solid black;
@@ -226,8 +229,7 @@ h3 {
 }
 
 .main-content {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  
 }
 
 a {
