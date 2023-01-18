@@ -19,7 +19,8 @@
   box-sizing: border-box;
   display: inline-block;
   text-decoration: none;
-  border: none;
+  border: 1 px solid black;
+  font-family: "Poppins", sans-serif;
 }
 
 .button-primary:hover {
@@ -679,17 +680,16 @@ section.socials .text {
   font-weight: 300;
   margin-top: 40px;
   white-space: nowrap;
-  padding: 0 15px;
+  /* padding: 0 15px; */
 }
 
 .lower-strip a {
-  text-decoration: none;
   color: #fff;
 }
 
 .lower-strip span {
   display: inline-block;
-  padding-right: 30px;
+  /* padding-right: 30px; */
 }
 
 .banner .main-title-a {
@@ -1074,7 +1074,7 @@ section.socials .text {
     vertical-align: baseline;
   }
   #_form_10_ button[type="submit"] {
-    font-size: 1.5em;
+    font-size: 1em;
   }
   #_form_10_ ._inline-style {
     margin: 20px 0 0 !important;
